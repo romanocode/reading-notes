@@ -1,20 +1,13 @@
-# Read 03: CSS
+# Read 02: HTML
 
-1. **¿Cuál es el propósito de CSS?**
->CSS es lo que hace que una página web se vea bien. Define colores, tamaños, espacios y estilos para que no >parezca un documento aburrido y sin vida.
+1. **¿Qué es HTML y por qué lo usamos?**
+>Es el lenguaje que le da estructura a las páginas web. Lo usamos para definir títulos, párrafos, imágenes y >otros elementos que vemos en un sitio.
 
-2. **¿Qué analogía NO técnica usarías para explicar la responsabilidad de HTML vs. CSS?**
+2. **¿Cuáles son las 3 partes principales de un elemento HTML?**
+>La etiqueta de apertura, el contenido y la etiqueta de cierre.
 
->Imagínate que HTML es el esqueleto de una persona: la estructura básica. CSS sería la ropa, el peinado y los >accesorios que le dan estilo.
+3. **¿Cómo le das información extra a un elemento?**
+ >Con atributos, como (class o id)  que añaden detalles y funcionalidades a los elementos
 
-3. **¿Cuáles son las tres formas de insertar CSS en tu proyecto?**
-
->CSS en línea: Directamente dentro de una etiqueta en HTML (no es lo ideal).
->CSS interno: Dentro de un <style> en el mismo archivo HTML .
->CSS externo: En un archivo .css aparte, enlazado al HTML.
-
-4. **Escribe un ejemplo de una regla CSS que daría texto rojo a todos los elementos <p>.**
-
->p {
->  color: red;
->}
+4. **¿Por qué es importante usar etiquetas semánticas?**
+>Porque hacen que el código sea más claro y entendible, tanto para los navegadores como para las personas, >especialmente aquellas que usan lectores de pantalla.
