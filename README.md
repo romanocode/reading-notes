@@ -15,7 +15,7 @@ Aquí están las notas de lectura para el modulo **Code 101**:
 5. [Read 05](./101/read05.md)  
 6. [Read 06 - Developer Tools](./101/read06.md)  
 7. [Read 07 - Control de versiones](./101/read07.md)  
-8. [Read 08](./101/read08.md)  
+8. [Read 08 - Wireframing](./101/read08.md)  
 9. [Read 09](./101/read09.md)  
 10. [Read 10](./101/read10.md)  
 
