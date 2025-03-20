@@ -32,8 +32,7 @@ _
 
     >Cuando creas un wireframe, básicamente haces el "esqueleto" del sitio, mostrando dónde irá cada cosa (textos, imágenes, botones, etc.). Pero en este punto, todo se ve en blanco y negro, sin estilo ni colores.
 
-    > _Aquí es donde entra CSS:_ .
-
+    > _Aquí es donde entra CSS:_.
         > 1. Le da colores, tipografías y estilos a los textos.
         > 2. Organiza el contenido con espaciado, márgenes y alineación.
         > 3. Permite que la web se vea bien en computadoras y celulares (diseño responsivo).
