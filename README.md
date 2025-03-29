@@ -1,7 +1,17 @@
 # 📚 Notas de Lectura
 
+![Mi foto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkf6sr2tq9c5TtxuMdsDtsQh1NZJC_z8DEcg&s)
+
+
 ## ✨ Introducción
 Bienvenido a mi sitio de notas de lectura. Mi nombre es Carlos Romano  Aquí encontrarás un registro por clase de las lecturas del  **Code 101** y **Code 201**.
+
+## Redes y Contacto  
+- [LinkedIn](https://www.linkedin.com/in/romanocode/)  
+- [GitHub](https://github.com/romanocode)  
+- 📧 Correo: carlos1996romano@gmail.com 
+
+
 
 ---
 
