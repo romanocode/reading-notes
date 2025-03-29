@@ -28,6 +28,7 @@ Aquí están las notas de lectura para el modulo **Code 101**:
 8. [Read 08 - Wireframing](./101/read08.md)  
 9. [Read 09 - Introducción a Javascript](./101/read09.md)  
 10. [Read 10 - Arreglos y Control de Flujo](./101/read10.md)  
+11. [Read 11 - Introducción al DOM y Proyectos](./101/read11.md)  
 
 ---
 
